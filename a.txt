@@ -20,4 +20,11 @@ Interpolation syntax
 
 it irefers to the embedding expressions into the markup text
 
-02.js 
+02.js , instagram.ejs
+
+
+creating a basic template for the route /ig/:username
+
+03.js , insta.ejs
+
+rendering data from data.json
