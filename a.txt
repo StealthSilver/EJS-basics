@@ -28,3 +28,11 @@ creating a basic template for the route /ig/:username
 03.js , insta.ejs
 
 rendering data from data.json
+
+Serving static files 
+
+app.user (express.static ( folder_name))
+
+INCLUDES
+
+this allows us to create sub templates
