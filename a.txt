@@ -9,9 +9,15 @@ this is like a blueprint
 
 other tools are handlebars
 
-o1.js 
+01.js , dice.ejs , home.ejs
 npm i ejs
 
 we need not require EJS in js file as Express by default requires it
 
 also all the HTMl templetes must be in the views directory 
+
+Interpolation syntax
+
+it irefers to the embedding expressions into the markup text
+
+02.js 
