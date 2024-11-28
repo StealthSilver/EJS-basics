@@ -1,0 +1,17 @@
+Templating
+
+EJS (Embedded JS templates)
+
+EJS is a simple templating language that lets you generate HTML markup with plain JS
+
+if there are multiple pages with same HTMl markup we use templating.
+this is like a blueprint
+
+other tools are handlebars
+
+o1.js 
+npm i ejs
+
+we need not require EJS in js file as Express by default requires it
+
+also all the HTMl templetes must be in the views directory 
